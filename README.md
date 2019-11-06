@@ -17,3 +17,20 @@ Bamboo Wallet is a hardware wallet used to store blockchain token account data. 
 ****
 
 ![8](pic/8.jpeg)
+
+
+# BAMBOO_WALLET Update software to v1.2
+
+1.Run  BambooWallet_v1.2.exe
+
+
+# BAMBOO_WALLET Update firmware
+
+
+1. Connect the wallet to the host via USB while holding the "<" (left) and ">" (right) buttons. The wallet will enter the update interface.
+
+2. Run update/WTCWalletBootLoader.exe
+
+3. Press OpenFile, select the *.bin file to perform the upgrade.
+
+4. Press BootLoad. The progress bar will appear. You can use the wallet when the upgrade is complete.
